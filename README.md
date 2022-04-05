@@ -15,8 +15,6 @@ Laboratorio corso di Basi di Dati Unipd 2022
 | 6 maggio 2022  | 16:30-18:00 | Lab1: SC140 @Santa Caterina. Gruppo B                        |
 | 13 maggio 2022 | 14:30-16:00 | Lab1: SC140 @Santa Caterina. Gruppo A                        |
 | 13 maggio 2022 | 16:30-18:00 | Lab1: SC140 @Santa Caterina. Gruppo B                        |
-| 13 maggio 2022 | 14:30-16:00 | Lab1: SC140 @Santa Caterina. Gruppo A                        |
-| 13 maggio 2022 | 16:30-18:00 | Lab1: SC140 @Santa Caterina. Gruppo B                        |
 | 27 maggio 2022 | 14:30-16:00 | Lab1: SC140 @Santa Caterina. Gruppo A                        |
 | 27 maggio 2022 | 16:30-18:00 | Lab1: SC140 @Santa Caterina. Gruppo B                        |
 
